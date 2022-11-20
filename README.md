@@ -1,3 +1,3 @@
 # Data-Science-and-Business-Analytics-Task-1
-Sparks Foundation Intern
+Internship@The_Sparks_Foundation:GRIP
 
